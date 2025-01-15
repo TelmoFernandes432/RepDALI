@@ -9,4 +9,4 @@ $dataHora = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
 git commit -m "Backup automático - $dataHora"
 
 # Enviar as mudanças para o repositório remoto
-git push origin main
+git push origin master
